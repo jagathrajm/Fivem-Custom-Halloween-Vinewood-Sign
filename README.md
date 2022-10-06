@@ -11,8 +11,12 @@ Tebex : https://maxworkx.tebex.io
 How To Install?
 
 1: Download The file
+
 2: Extract it
+
 3: Copy and paste the folder into your resources folder
+
 4: Ensure the folder (ensure max_halloween01)
+
 5: Restart Your Server And Enjoy!
  
